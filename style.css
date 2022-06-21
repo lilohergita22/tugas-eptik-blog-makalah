@@ -1,0 +1,26 @@
+nav {
+  background-color: #205375;
+}
+
+.content-1 {
+  margin: 50px 0 0 0;
+  background-color: #fff;
+}
+
+.col-sidebar {
+  /* background-color: #e9dac1; */
+}
+
+.footer-1 {
+  background-color: #205375;
+}
+
+.footer-2 {
+  background-color: #112b3c;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: pink;
+  }
+}
